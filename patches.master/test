@@ -1,0 +1,13 @@
+001-include-version-number.patch
+010-lua-5.1.3-lnum-full-260308.patch
+011-lnum-use-double.patch
+012-lnum-fix-ltle-relational-operators.patch
+013-lnum-strtoul-parsing-fixes.patch
+015-lnum-ppc-compat.patch
+020-shared_liblua.patch
+030-archindependent-bytecode.patch
+040-use-symbolic-functions.patch
+050-honor-cflags.patch
+100-no_readline.patch
+200-lua-path.patch
+300-opcode_performance.patch
